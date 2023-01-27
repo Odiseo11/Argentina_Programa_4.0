@@ -1,0 +1,40 @@
+#perfil {
+    border-style: solid;
+}
+#div-perfil {
+    border-style: solid;
+    margin-top: 5%;
+    margin-block-end: 5%;
+    padding: 5%;
+    width: 70%;
+    /*padding-top: 2%;
+    padding-left: 10%;*/
+    background-color: white;
+}
+#nombre {
+    text-align: left;
+    position: relative;
+    left: -10%;
+}
+body {
+    font-family: Arial;
+}
+#h1-title {
+    text-align: center;
+    /*padding-right: 5%;*/
+    padding-top: 12%;
+}
+#inf-personal, #inf-hab, #inf-exp {
+    padding: auto;
+    /*padding-top: 5%;*/
+    position: relative;
+    text-align: left;
+    line-height: 200%;
+}
+#l-1 {
+    position: relative;
+    align-items: left;
+}
+#div-busqueda {
+    width: 20%;
+}
